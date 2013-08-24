@@ -9,6 +9,9 @@ package org.confident.supersonic.defapi;
  */
 public interface ServiceInfo {	
 	
+	/**
+	 * @return  service name
+	 */
 	String getServiceName();		
 	
 }

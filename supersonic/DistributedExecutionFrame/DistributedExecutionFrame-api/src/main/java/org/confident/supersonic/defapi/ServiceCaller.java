@@ -9,6 +9,12 @@ package org.confident.supersonic.defapi;
  */
 public interface ServiceCaller {
 
+	/**
+	 * call the service
+	 * 
+	 * @param serviceInfo
+	 * @param arguments
+	 */
 	void call(ServiceInfo serviceInfo, Argument[] arguments);
 
 }
