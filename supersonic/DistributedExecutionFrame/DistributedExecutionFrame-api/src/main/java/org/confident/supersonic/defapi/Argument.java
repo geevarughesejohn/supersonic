@@ -10,5 +10,6 @@ package org.confident.supersonic.defapi;
  * 
  */
 public interface Argument {
+  //sysso
 
 }
